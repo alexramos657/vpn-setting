@@ -86,25 +86,15 @@ After downloading, open the application file to sign in with the ProtonVPN accou
 <img src="https://i.imgur.com/iRgJKXU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the left hand side of the VPN you can select a country where you want your VPN to be, the image below shows the VPN being connected to an IP in Japan. See EXAMPLE 4C
-  
-</p>
-<br />
-
-EXAMPLE 4C
+After signing in, click on "Quick Connect" and it will choose and start a VPN connection. 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/54pkNJi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Next we will look at the IP again using the VM browser now that we have connected the VPN to Japan. The website www.whatismyipaddress.com shows yet another IP address using the VPN from Japan. This is quite amazing.
-  
-</p>
-<br />
-
-EXAMPLE 4D
+Now, if i go back to the IP address website and refresh the page, it shows me that I am in Arkansas instead of Washington, and I have another different IP address:
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4JvnHE8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
