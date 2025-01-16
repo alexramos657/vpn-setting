@@ -75,15 +75,10 @@ Now head over to ProtonVPN and sign up for a free account.
 </p>
 <p>
 
-Once you have logged into your Proton VPN account on the VM, you will select “Downloads” and choose to download the “Windows” version. Once the application Proton VPN is installed we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app. See EXAMPLE 4B when this steps are completed.  
+After making your account, now I can download the windows version in the downloads tab.
   
 </p>
-<br />
-
-
-EXAMPLE 4B
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EcsgNjU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
