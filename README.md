@@ -38,105 +38,40 @@ Next we will set up a virtual machine on Azure.
 </p>
 <br />
 
-STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). See Example 2A looking at the Virtual Machine set up page. 
+Go to www.portal.azure.com and find Virtual Machines. Create a VM with Windows 10 as the image. For the region, I typically create the VM in (US) West US.
 
-EXAMPLE 2A
 <p>
 <img src="https://i.imgur.com/BQOR7Bm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/iCBdIqw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Creating the Virtual Machine on Example 2B the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
-
-EXAMPLE 2B
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 For the Username and Password you can create your custom information, just record it personally.
-  
+<p>
+Before you review+create, make sure the licensing box is checked.
 </p>
 <br />
 
-EXAMPLE 2C
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KXb9B9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/INleKv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Select the “Networking” tab towards the top of the page and view EXAMPLE 2D inputs to match. 
-  
-</p>
-<br />
-
-EXAMPLE 2D
+After the VM is created, open remote desktop, and log into your VM using the public IP Address.
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fjxAVaU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-Then select “Review and Create”, once it passes validation select “Create” at the bottom. 
-  
-</p>
-<br />
-
-NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “20.216.176.18”. See EXAMPLE 2E
-
-EXAMPLE 2E
-
+When we look up the IP address for this VM through www.whatismyipaddress.com we see that this VM is showing the location for Washington, US (EXAMPLE 3C).
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kwxeQj9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-
-STEP 3 – Log Into the VM and Find IP Address
-<p>
-Now that we have set up the Virtual Machine we will connecting to it using the application “Remote Desktop Connection” (EXAMPLE 3A) and input the IP address for the VM that we located in EXAMPLE 2E and then input the set credentials we set when creating the VM (see EXAMPLE 3B). Once logged in, we will open the web browser and again look up www.whatismyipaddress.com (EXAMPLE 3C).
-
-  
+Now head over to ProtonVPN and sign up for a free account.  
 </p>
-<br />
-EXAMPLE 3A
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-  
-</p>
-<br />
-
-EXAMPLE 3B
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-When we look up the IP address for this VM through www.whatismyipaddress.com we see that this VM is showing the location for France (EXAMPLE 3C).
-  
-</p>
-<br />
-
-EXAMPLE 3C
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-STEP 4 – CONNECTING TO VPN (Free Version)
-
-Using the local computer go to protonvpn.com and create a free account (if you use the VM then French will display on your browser, so use local computer desktop). Once you are logged into your account, copy the URL from the Proton VPN website (EXAMPLE 4A) and then paste the URL to the VM web browser. 
-
-  
-</p>
-<br />
-
-EXAMPLE 4A
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pbxWJAI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
