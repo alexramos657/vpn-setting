@@ -99,9 +99,9 @@ Now, if i go back to the IP address website and refresh the page, it shows me th
 <p>
 
 Looking at this exercise we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet.
-Home IP (USA): 137.103.51.136
-Virtual Machin IP (France): 20.216.176.18
-Virtual Machin IP VPN (Japan) 212.102.51.251
+Home IP (Texas): 99.174.195.134
+Virtual Machine IP (Washington): 74.179.81.168
+Virtual Machine IP VPN (Arkansas): 37.19.221.248
 
   
 </p>
