@@ -92,7 +92,7 @@ After signing in, click on "Quick Connect" and it will choose and start a VPN co
 </p>
 <p>
 
-Now, if i go back to the IP address website and refresh the page, it shows me that I am in Arkansas instead of Washington, and I have another different IP address:
+Now, if i go back to the IP address website and refresh the page, it shows me that I am in Arkansas instead of Washington, and I have another different IP address. Yours may have a different location.
 <p>
 <img src="https://i.imgur.com/4JvnHE8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
