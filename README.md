@@ -81,7 +81,11 @@ After making your account, now I can download the windows version in the downloa
 <img src="https://i.imgur.com/EcsgNjU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+After downloading, open the application file to sign in with the ProtonVPN account you just made.
+<p>
+<img src="https://i.imgur.com/iRgJKXU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 On the left hand side of the VPN you can select a country where you want your VPN to be, the image below shows the VPN being connected to an IP in Japan. See EXAMPLE 4C
   
 </p>
